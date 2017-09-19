@@ -71,6 +71,7 @@ $(function () {
 		$("#cover").attr('src',coverSrc)
 		$("#song-name").text(name)
 		$("#singer").text(singer)
+		document.title="#song-name"
 		
 	}
 	function parseAndRenderLyric(lrc,$container) {
