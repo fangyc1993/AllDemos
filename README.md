@@ -4,7 +4,7 @@
 * [3D banner](https://xinx1n.github.io/demos/banner/banner.html)
 * [material | 响应式设计](https://xinx1n.github.io/demos/material/)
 * [sign | 登录注册](https://xinx1n.github.io/demos/sign/login.html)
-* [手机淘宝-动态 REM 方案|扫码预览](https://xinx1n.github.io/demos/mtaobao/index.html)
+* [手机淘宝-动态 REM 方案|扫码预览](https://fangyc1993.github.io/AllDemos/mtaobao/index.html)
 	>![手机扫码](http://qr.liantu.com/api.php?text=https://xinx1n.github.io/demos/mtaobao/index.html)
 * [网易云音乐-手机版|扫码预览](https://xinx1n.github.io/demos/cloudmusic/index.html)
 	>![手机扫码](http://qr.liantu.com/api.php?text=https://xinx1n.github.io/demos/cloudmusic/index.html)
